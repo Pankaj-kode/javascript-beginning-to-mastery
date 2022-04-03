@@ -1,6 +1,6 @@
 // let keyword 
 // declare variable with let keyword 
-
+//It is recommended to use Let over Var
 let firstName = "harshit";
 firstName = "Mohit";
 console.log(firstName);
