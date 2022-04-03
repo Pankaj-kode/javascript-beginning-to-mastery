@@ -1,5 +1,6 @@
 // rules for naming variables 
 
+// Variables are case sensitive
 // you cannot start with number 
 // example :- 
 // 1value (invalid)
